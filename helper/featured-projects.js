@@ -293,7 +293,7 @@ const allImages = [
     year: "2015",
     location: "Sabrosa, Portugal",
     images: [
-      "/assets/webp/restaurante-alfaiate.webp",
+      "/assets/webp/casa-museu-miguel-torga.webp",
     ],
   },
   {
