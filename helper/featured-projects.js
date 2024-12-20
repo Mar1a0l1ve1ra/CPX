@@ -1,16 +1,19 @@
 const allImages = [
   {
     id: 1,
-    category: "heritage",
-    alt: "Heritage Building 1",
-    title: "Lisboa Oriental New Hospital",
-    architect: "Arq. Eduardo Souto Moura",
+    category: "others",
+    alt: "Comandante Ferraz Antarctic Station",
+    title: "Comandante Ferraz Antarctic Station for the Brasil's Marine",
+    architect: "Arquitecture by Estúdio 41",
     year: "2013",
-    location: "Lisbon, Portugal",
+    location: "Keller Peninsule, Antarctica",
     images: [
       "/assets/webp/card-1.webp",
-      "/assets/webp/card-2.webp",
-      "/assets/webp/card-1.webp",
+      "/assets/webp/antartica-station2.webp",
+      "/assets/webp/antartica-station3.webpp",
+      "/assets/webp/antartica-station4.webpp",
+      "/assets/webp/antartica-station5.webpp",
+      "/assets/webp/antartica-station6.webpp",
     ],
   },
   {
