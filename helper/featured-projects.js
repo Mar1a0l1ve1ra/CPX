@@ -10,10 +10,10 @@ const allImages = [
     images: [
       "/assets/webp/card-1.webp",
       "/assets/webp/antartica-station2.webp",
-      "/assets/webp/antartica-station3.webpp",
-      "/assets/webp/antartica-station4.webpp",
-      "/assets/webp/antartica-station5.webpp",
-      "/assets/webp/antartica-station6.webpp",
+      "/assets/webp/antartica-station3.webp",
+      "/assets/webp/antartica-station4.webp",
+      "/assets/webp/antartica-station5.webp",
+      "/assets/webp/antartica-station6.webp",
     ],
   },
   {
