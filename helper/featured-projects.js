@@ -21,7 +21,7 @@ const allImages = [
     category: "others",
     alt: "Shelter",
     title: "Module Shelter by GG Site specific for the European Capital of Culture",
-    architect: "Designer Gabriela Gomes, Arq. Adalgisa Lopes. 2012",
+    architect: "Designer Gabriela Gomes, Arq. Adalgisa Lopes",
     year: "2012",
     location: "Guimarães, Portugal",
     images: [
@@ -35,8 +35,8 @@ const allImages = [
     id: 3,
     category: "museums",
     alt: "MUDE",
-    title: "MUDE - Museum of Fashion and Design",
-    architect: "",
+    title: "MUDE",
+    architect: "Museum of Fashion and Design",
     year: "",
     location: "Lisbon, Portugal",
     images: ["/assets/webp/mude.webp"
@@ -47,7 +47,7 @@ const allImages = [
     category: "service",
     alt: "Restaurant Gull",
     title: "Restaurant Gull",
-    architect: "Arq. Alfredo Resende.",
+    architect: "Arq. Alfredo Resende",
     year: "2012",
     location: "Oporto, Portugal",
     images: [
@@ -88,7 +88,7 @@ const allImages = [
     alt: "Cultural House of Pinhel",
     title: "Cultural House of Pinhel",
     architect:
-      "Participation: Project Electricity, Lighting and SCIE.",
+      "Participation: Project Electricity, Lighting and SCIE",
     year: "2014",
     location: "Pinhel, Portugal",
     images: [
@@ -100,7 +100,7 @@ const allImages = [
     category: "others",
     alt: "Church of Covas do Barroso",
     title: "Church of Covas do Barroso",
-    architect: "Participation: Electricity and Lighting.",
+    architect: "Participation: Electricity and Lighting",
     year: "",
     location: "Vila Real, Portugal",
     images: [
@@ -113,7 +113,7 @@ const allImages = [
     alt: "KACST",
     title: "Expansion of the KACST Research Pole",
     architect:
-      "Participation: Engineering Design and Lighting technology.",
+      "Participation: Engineering Design and Lighting technology",
     year: "",
     location: "Kiyadh, Saudi Arabia",
     images: [
@@ -127,7 +127,7 @@ const allImages = [
     alt: "Secondary School António Arroio",
     title: "Secondary School António Arroio",
     architect:
-      "Arquitect Francisco Aires Mateus.",
+      "Arquitect Francisco Aires Mateus",
     year: "2010",
     location: "Lisbon, Portugal",
     images: [
@@ -140,7 +140,7 @@ const allImages = [
     alt: "Rehabilitation of Multi-household Building",
     title: "Rehabilitation of Multi-household Building",
     architect:
-      "Participation: Project Electricity, Lighting and SCIE. Arquitecture RAR Studio.",
+      "Participation: Project Electricity, Lighting and SCIE. Arquitecture RAR Studio",
     year: "2017-2020",
     location: "Lisbon, Portugal",
     images: [
@@ -155,7 +155,7 @@ const allImages = [
     alt: "Embraer Composites Factory",
     title: "Embraer Composites Factory",
     architect:
-      "Arq. Alexandre Burmester.",
+      "Arq. Alexandre Burmester",
     year: "2011",
     location: "Évora, Portugal",
     images: [
@@ -168,7 +168,7 @@ const allImages = [
     alt: "Sapienta Boutique Hotel",
     title: "Sapienta Boutique Hotel",
     architect:
-      "Participation: Project Electricity, Lighting and SCIE.",
+      "Participation: Project Electricity, Lighting and SCIE",
     year: "",
     location: "Coimbra, Portugal",
     images: [
@@ -181,7 +181,7 @@ const allImages = [
     alt: "Kigali Bugesera Airport",
     title: "Kigali Bugesera Airport",
     architect:
-      "Participation: Project Electricity, Lighting and SCIE.",
+      "Participation: Project Electricity, Lighting and SCIE",
     year: "2017",
     location: "Rilima, Rwanda",
     images: [
@@ -228,9 +228,9 @@ const allImages = [
     category: "others",
     alt: "Mechanic connections for Virtude's trail paths",
     title: "Mechanic connections for Virtude's trail paths",
-    architect: "Participation: Project Electricity, Lighting and SCIE.",
+    architect: "Participation: Project Electricity, Lighting and SCIE",
     year: "",
-    location: "Porto, Portugal",
+    location: "Oporto, Portugal",
     images: [
       "/assets/webp/virtudes-porto.webp",
     ],
@@ -263,7 +263,7 @@ const allImages = [
     alt: "National Coach Museum",
     title: "National Coach Museum",
     architect:
-      "Arq. Paulo Mendes da Rocha.",
+      "Arq. Paulo Mendes da Rocha",
     year: "2010-2011",
     location: "Lisbon, Portugal",
     images: [
@@ -276,9 +276,9 @@ const allImages = [
     alt: "Restaurant Alfaiate",
     title: "Restaurant Alfaiate",
     architect:
-      "Complete renovation project of the facilities.",
+      "Complete renovation project of the facilities",
     year: "2012",
-    location: "Porto, Portugal",
+    location: "Oporto, Portugal",
     images: [
       "/assets/webp/restaurante-alfaiate.webp",
     ],
@@ -289,7 +289,7 @@ const allImages = [
     alt: "Miguel Torga Cultural Center",
     title: "Miguel Torga Cultural Center",
     architect:
-      "Arq. Gabriel Andrade-DRCN.",
+      "Arq. Gabriel Andrade-DRCN",
     year: "2015",
     location: "Sabrosa, Portugal",
     images: [
@@ -301,9 +301,9 @@ const allImages = [
     category: "service",
     alt: "Hostel M at Largo São Domingos",
     title: "Hostel M at Largo São Domingos",
-    architect: "Arq. PedraLiquida.",
+    architect: "Arq. PedraLiquida",
     year: "2013",
-    location: "Porto, Portugal",
+    location: "Oporto, Portugal",
     images: [
       "/assets/webp/card-6.webp",
     ],
@@ -314,7 +314,7 @@ const allImages = [
     alt: "Various fuel stations in Angola",
     title: "Various fuel stations in Angola",
     architect:
-      "AFRIPLANUS subcontractor.",
+      "AFRIPLANUS subcontractor",
     year: "2012-2013",
     location: "Angola",
     images: [
