@@ -110,7 +110,7 @@ const allImages = [
 
     category: "education",
     alt: "Secondary School António Arroio",
-    title: "Escola Secondária António Arroio",
+    title: "Escola Secundária António Arroio",
     architect: "Arquitecto Francisco Aires Mateus",
     year: "2010",
     location: "Lisboa, Portugal",
